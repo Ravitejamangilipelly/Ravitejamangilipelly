@@ -42,12 +42,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ravitejamangilipelly/ravitejamangilipelly/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ravitejamangilipelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviteja mangilipelly" height="30" width="40" /></a>
+</p>
 
 ###
